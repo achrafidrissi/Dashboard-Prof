@@ -182,7 +182,7 @@ const SingleStudentPage = ({ params }: Props) => {
                             <div className="flex items-start gap-6">
                                 <Image src="/book.svg" alt="Style d'apprentissage" width={40} height={40} />
                                 <div>
-                                    <h3 className="font-bold text-lg text-green-600">Style d'apprentissage</h3>
+                                    <h3 className="font-bold text-lg text-green-600">Style d&apos;apprentissage</h3>
                                     <p className="text-gray-700 leading-relaxed">{student.learningStyle}</p>
                                 </div>
                             </div>
